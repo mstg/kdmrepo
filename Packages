@@ -16,12 +16,11 @@ Package: io.mstg.safeload
 Version: 1.0
 Architecture: darwin-amd64
 Maintainer: mstg
-Depends: com.alexzielenski.Opee
 Filename: debs//safeload1.0.deb
-Size: 4128
-MD5sum: d3c1d8a99b45ea2dcdb1be570f6f616c
-SHA1: be9c36acc3046c25fa2a09fdf350173da5f0d7b9
-SHA256: b995c2138bd199f9ca3ed20f3121b7952c298577cf9e266e398ea115a99ef03f
+Size: 4104
+MD5sum: 49bb4e9d699b687963d3300c8d2be868
+SHA1: 38a2a4a15bdec499564f878be82c9c4bbfdfdd2b
+SHA256: db06759ad800829e478514e5543727464f40acc7a630b5f7b2880a8de49bf45d
 Description: safety extension for Opee
 Author: mstg
 Name: safeload
