@@ -1,12 +1,13 @@
 Package: com.alexzielenski.Opee
-Version: 1.0
+Version: 1.1
 Architecture: darwin-amd64
 Maintainer: Alex Zielenski
-Filename: debs//opee1.0.deb
-Size: 378094
-MD5sum: e37686c20cd9ec5f8769e6e8edc6dedf
-SHA1: affa7d7a30b0c50bc4bb496636857a327ae2898c
-SHA256: 9f73ebc8b98a0cbb5fc70d0db6333106d8cf4648b321205ef3dc4bf026b4dff9
+Depends: io.mstg.safeload
+Filename: debs//opee1.1.deb
+Size: 377784
+MD5sum: 190c3721c8b1fc69be0ceaf50c85fe63
+SHA1: eafc4e3b40e70eade3962a454adc9e5311f5c911
+SHA256: e6e35af470dbaffaa27c30596f7dbafcd7c20037be897b6c8eeb5d10a5cc99a4
 Description: runtime modification library
 Author: Alex Zielenski
 Name: Opee
