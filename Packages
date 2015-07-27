@@ -1,0 +1,27 @@
+Package: com.alexzielenski.Opee
+Version: 1.0
+Architecture: darwin-amd64
+Maintainer: Alex Zielenski
+Filename: debs//opee1.0.deb
+Size: 379062
+MD5sum: 3de15b0dc626f7648bec23e8935723c6
+SHA1: 443dbb9bd656b44a72f119a14f55ee01c87302c7
+SHA256: dc6491093072a3e35342e5774a2c0f2ef010555da41c2dc1759b21c4cfdfdca8
+Description: runtime modification library
+Author: Alex Zielenski
+Name: Opee
+
+Package: io.mstg.safeload
+Version: 1.0
+Architecture: darwin-amd64
+Maintainer: mstg
+Depends: com.alexzielenski.Opee
+Filename: debs//safeload1.0.deb
+Size: 5214
+MD5sum: bd789df94d23101cedc4ba0703c0a27d
+SHA1: 0b3752234ce02a48041de6e5c6c287592f4e2664
+SHA256: 76bc62434becda7ac12f26a93a48cdf22eea703a08bb3215afb3d67c4f93a387
+Description: safety extension for Opee
+Author: mstg
+Name: safeload
+
